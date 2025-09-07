@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive suite of code and experiments addressing centralised and federated learning approaches to the semantic segmentation of breast lesions in MRI scans. The main focus is on overcoming challenges in federated learning setups, particularly those caused by data heterogeneity across clients.       
 
-- [Link to detailed documentation](https://whimsical-biscuit-b275f6.netlify.app/](https://spiffy-capybara-0f87fd.netlify.app/))
+- [Link to detailed documentation](https://spiffy-capybara-0f87fd.netlify.app/)
 
 --- 
 
@@ -162,6 +162,6 @@ python scripts/PATH/main.py 0 2 1
 ---
 
 ### References
-- [Link to detailed documentation](https://whimsical-biscuit-b275f6.netlify.app/](https://spiffy-capybara-0f87fd.netlify.app/))
+- [Link to detailed documentation](https://spiffy-capybara-0f87fd.netlify.app/)
 - [DCE-MRI Dataset](https://www.sciencedirect.com/science/article/abs/pii/S0010482523007205)
 - [FedProx Paper](https://arxiv.org/abs/1812.06127)
