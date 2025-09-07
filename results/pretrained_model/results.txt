@@ -1,0 +1,2 @@
+bests model: IoU: 0.363, Dice: 0.532
+last model: IoU: 0.209, Dice: 0.346

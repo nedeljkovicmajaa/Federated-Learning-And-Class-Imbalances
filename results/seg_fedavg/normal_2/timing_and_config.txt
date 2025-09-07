@@ -1,0 +1,8 @@
+
+Federated Learning Completed
+Total clients: 2
+Rounds completed: 10
+Total time: 15981.64 seconds
+Total time (formated): 4h 26m 21.64s
+Average per round: 1598.16 seconds
+Average per round (formated): 0h 26m 38.16s

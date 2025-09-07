@@ -1,0 +1,6 @@
+
+UNet Segmentation Training Completed
+Total time: 5304.26 seconds
+Total time (formatted): 01:28:24
+Average per epoch: 176.81 seconds
+Average per epoch (formatted): 00:02:56

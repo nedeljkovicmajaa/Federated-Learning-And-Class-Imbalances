@@ -1,0 +1,70 @@
+Training - Epoch 1, Loss: 1.0190, Dice: 0.0224, IoU: 0.0113
+Validation - Epoch 1, Loss: 0.9468, Dice: 0.0532, IoU: 0.0273
+Training - Epoch 2, Loss: 1.1946, Dice: 0.0000, IoU: 0.0000
+Validation - Epoch 2, Loss: 1.0000, Dice: 0.0000, IoU: 0.0000
+Training - Epoch 3, Loss: 1.2336, Dice: 0.0000, IoU: 0.0000
+Validation - Epoch 3, Loss: 1.0000, Dice: 0.0000, IoU: 0.0000
+-----------------------------------------
+Training - Epoch 1, Loss: 0.4344, Dice: 0.6531, IoU: 0.4468
+Validation - Epoch 1, Loss: 0.7476, Dice: 0.2524, IoU: 0.1444
+Training - Epoch 2, Loss: 0.4623, Dice: 0.6742, IoU: 0.4571
+Validation - Epoch 2, Loss: 0.9848, Dice: 0.0152, IoU: 0.0076
+Training - Epoch 3, Loss: 0.5273, Dice: 0.7686, IoU: 0.5759
+Validation - Epoch 3, Loss: 0.9751, Dice: 0.0249, IoU: 0.0126
+-----------------------------------------
+Training - Epoch 1, Loss: 0.4024, Dice: 0.6849, IoU: 0.4748
+Validation - Epoch 1, Loss: 0.8243, Dice: 0.1757, IoU: 0.0963
+Training - Epoch 2, Loss: 0.4240, Dice: 0.7569, IoU: 0.5687
+Validation - Epoch 2, Loss: 0.7061, Dice: 0.2939, IoU: 0.1723
+Training - Epoch 3, Loss: 0.4518, Dice: 0.7861, IoU: 0.5993
+Validation - Epoch 3, Loss: 0.8447, Dice: 0.1553, IoU: 0.0842
+-----------------------------------------
+Training - Epoch 1, Loss: 0.3833, Dice: 0.7347, IoU: 0.5425
+Validation - Epoch 1, Loss: 0.6294, Dice: 0.3706, IoU: 0.2274
+Training - Epoch 2, Loss: 0.4011, Dice: 0.7766, IoU: 0.5931
+Validation - Epoch 2, Loss: 0.7402, Dice: 0.2598, IoU: 0.1493
+Training - Epoch 3, Loss: 0.4325, Dice: 0.7933, IoU: 0.6109
+Validation - Epoch 3, Loss: 0.7233, Dice: 0.2767, IoU: 0.1606
+-----------------------------------------
+Training - Epoch 1, Loss: 0.3795, Dice: 0.7394, IoU: 0.5530
+Validation - Epoch 1, Loss: 0.5505, Dice: 0.4495, IoU: 0.2899
+Training - Epoch 2, Loss: 0.3881, Dice: 0.7881, IoU: 0.6023
+Validation - Epoch 2, Loss: 0.8092, Dice: 0.1908, IoU: 0.1054
+Training - Epoch 3, Loss: 0.4268, Dice: 0.7951, IoU: 0.6186
+Validation - Epoch 3, Loss: 0.7171, Dice: 0.2829, IoU: 0.1648
+-----------------------------------------
+Training - Epoch 1, Loss: 0.3821, Dice: 0.7471, IoU: 0.5601
+Validation - Epoch 1, Loss: 0.5638, Dice: 0.4362, IoU: 0.2790
+Training - Epoch 2, Loss: 0.4133, Dice: 0.7827, IoU: 0.5970
+Validation - Epoch 2, Loss: 0.7582, Dice: 0.2418, IoU: 0.1375
+Training - Epoch 3, Loss: 0.4405, Dice: 0.7980, IoU: 0.6174
+Validation - Epoch 3, Loss: 0.6982, Dice: 0.3018, IoU: 0.1777
+-----------------------------------------
+Training - Epoch 1, Loss: 0.3639, Dice: 0.7617, IoU: 0.5700
+Validation - Epoch 1, Loss: 0.6101, Dice: 0.3899, IoU: 0.2422
+Training - Epoch 2, Loss: 0.4034, Dice: 0.7822, IoU: 0.5895
+Validation - Epoch 2, Loss: 0.7827, Dice: 0.2173, IoU: 0.1219
+Training - Epoch 3, Loss: 0.4307, Dice: 0.7967, IoU: 0.6150
+Validation - Epoch 3, Loss: 0.7189, Dice: 0.2811, IoU: 0.1635
+-----------------------------------------
+Training - Epoch 1, Loss: 0.3663, Dice: 0.7625, IoU: 0.5724
+Validation - Epoch 1, Loss: 0.5797, Dice: 0.4203, IoU: 0.2661
+Training - Epoch 2, Loss: 0.3857, Dice: 0.7887, IoU: 0.6080
+Validation - Epoch 2, Loss: 0.6500, Dice: 0.3500, IoU: 0.2122
+Training - Epoch 3, Loss: 0.4062, Dice: 0.8049, IoU: 0.6250
+Validation - Epoch 3, Loss: 0.7203, Dice: 0.2797, IoU: 0.1626
+-----------------------------------------
+Training - Epoch 1, Loss: 0.3616, Dice: 0.7612, IoU: 0.5697
+Validation - Epoch 1, Loss: 0.6165, Dice: 0.3835, IoU: 0.2372
+Training - Epoch 2, Loss: 0.3978, Dice: 0.7852, IoU: 0.5991
+Validation - Epoch 2, Loss: 0.6313, Dice: 0.3687, IoU: 0.2260
+Training - Epoch 3, Loss: 0.4331, Dice: 0.7983, IoU: 0.6167
+Validation - Epoch 3, Loss: 0.7186, Dice: 0.2814, IoU: 0.1638
+-----------------------------------------
+Training - Epoch 1, Loss: 0.3642, Dice: 0.7673, IoU: 0.5745
+Validation - Epoch 1, Loss: 0.6456, Dice: 0.3544, IoU: 0.2153
+Training - Epoch 2, Loss: 0.4108, Dice: 0.7835, IoU: 0.5989
+Validation - Epoch 2, Loss: 0.7424, Dice: 0.2576, IoU: 0.1478
+Training - Epoch 3, Loss: 0.4419, Dice: 0.7933, IoU: 0.6094
+Validation - Epoch 3, Loss: 0.7546, Dice: 0.2454, IoU: 0.1399
+-----------------------------------------

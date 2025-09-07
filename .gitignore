@@ -1,0 +1,10 @@
+data/
+data_subset/
+__pycache__/
+
+*.pyc
+*.pyo
+*.npz
+
+**/*.h5
+**/*.pth

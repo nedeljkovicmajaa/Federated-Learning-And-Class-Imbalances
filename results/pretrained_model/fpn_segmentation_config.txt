@@ -1,0 +1,4 @@
+
+UNet Segmentation Training Completed
+Total time: 53063.57 seconds
+Total time (formatted): 14:44:23

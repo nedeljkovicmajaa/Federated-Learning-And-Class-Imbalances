@@ -1,0 +1,7 @@
+Training - Epoch 1, Loss: 0.9920254945755005, Dice: 0.00798023771494627, IoU: 0.0041847508400678635
+Validation - Epoch 1, Loss: 1.0, Dice: 0.0, IoU: 0.0
+Training - Epoch 2, Loss: 0.9689378142356873, Dice: 0.031091054901480675, IoU: 0.016039598733186722
+Validation - Epoch 2, Loss: 1.0, Dice: 0.0, IoU: 0.0
+Training - Epoch 3, Loss: 0.8415424823760986, Dice: 0.15852676331996918, IoU: 0.08053112030029297
+Validation - Epoch 3, Loss: 1.0, Dice: 0.0, IoU: 0.0
+-----------------------------------------

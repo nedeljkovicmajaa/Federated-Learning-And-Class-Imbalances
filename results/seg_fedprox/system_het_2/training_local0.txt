@@ -1,0 +1,30 @@
+Training - Epoch 1, Loss: 8.2490, Dice: 0.6744, IoU: 0.4745
+Validation - Epoch 1, Loss: 0.5013, Dice: 0.4987, IoU: 0.3321
+-----------------------------------------
+Training - Epoch 1, Loss: 7.0132, Dice: 0.7142, IoU: 0.5169
+Validation - Epoch 1, Loss: 0.4953, Dice: 0.5047, IoU: 0.3375
+-----------------------------------------
+Training - Epoch 1, Loss: 6.2458, Dice: 0.7356, IoU: 0.5452
+Validation - Epoch 1, Loss: 0.5401, Dice: 0.4599, IoU: 0.2986
+-----------------------------------------
+Training - Epoch 1, Loss: 6.3620, Dice: 0.7474, IoU: 0.5592
+Validation - Epoch 1, Loss: 0.5066, Dice: 0.4934, IoU: 0.3275
+-----------------------------------------
+Training - Epoch 1, Loss: 6.2336, Dice: 0.7543, IoU: 0.5635
+Validation - Epoch 1, Loss: 0.5234, Dice: 0.4766, IoU: 0.3128
+-----------------------------------------
+Training - Epoch 1, Loss: 5.8615, Dice: 0.7569, IoU: 0.5667
+Validation - Epoch 1, Loss: 0.4968, Dice: 0.5032, IoU: 0.3361
+-----------------------------------------
+Training - Epoch 1, Loss: 6.0035, Dice: 0.7573, IoU: 0.5670
+Validation - Epoch 1, Loss: 0.5513, Dice: 0.4487, IoU: 0.2893
+-----------------------------------------
+Training - Epoch 1, Loss: 6.1831, Dice: 0.7599, IoU: 0.5718
+Validation - Epoch 1, Loss: 0.5107, Dice: 0.4893, IoU: 0.3238
+-----------------------------------------
+Training - Epoch 1, Loss: 6.3208, Dice: 0.7603, IoU: 0.5748
+Validation - Epoch 1, Loss: 0.5616, Dice: 0.4384, IoU: 0.2808
+-----------------------------------------
+Training - Epoch 1, Loss: 6.4593, Dice: 0.7547, IoU: 0.5647
+Validation - Epoch 1, Loss: 0.5392, Dice: 0.4608, IoU: 0.2993
+-----------------------------------------
